@@ -1,0 +1,39 @@
+[
+   
+    { "id":1,
+    "question": "What is the Capital of Tamilnadu ?",
+    "options": [
+      "Chennai",
+      "Madurai",
+      "Trichy",
+      "Coimbatore"
+    ],
+    "answer": "Chennai"
+  },
+
+
+
+    { "id":2,
+      "question": "What is the largest planet in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Uranus"
+      ],
+      "answer": "Jupiter"
+    },
+
+    { "id":3,
+    "question": "20+20-20=?",
+    "options": [
+      "20",
+      "40",
+      "60",
+      "80"
+    ],
+    "answer": "20"
+  }
+
+   
+  ]
